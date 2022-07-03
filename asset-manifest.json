@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.62cfc74c.js",
-    "static/js/787.9c87d64c.chunk.js": "/static/js/787.9c87d64c.chunk.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.62cfc74c.js.map": "/static/js/main.62cfc74c.js.map",
-    "787.9c87d64c.chunk.js.map": "/static/js/787.9c87d64c.chunk.js.map"
+    "main.css": "/haven-dance/static/css/main.e6c13ad2.css",
+    "main.js": "/haven-dance/static/js/main.41b95ff7.js",
+    "static/js/787.9c87d64c.chunk.js": "/haven-dance/static/js/787.9c87d64c.chunk.js",
+    "index.html": "/haven-dance/index.html",
+    "main.e6c13ad2.css.map": "/haven-dance/static/css/main.e6c13ad2.css.map",
+    "main.41b95ff7.js.map": "/haven-dance/static/js/main.41b95ff7.js.map",
+    "787.9c87d64c.chunk.js.map": "/haven-dance/static/js/787.9c87d64c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.62cfc74c.js"
+    "static/js/main.41b95ff7.js"
   ]
 }
